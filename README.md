@@ -1,5 +1,4 @@
-# MUSCOTT — Multi-Camera AI Surveillance System
-
+# AI Crime Surveillance Grid
 ## Quick Start
 
 ### 1. Install dependencies
